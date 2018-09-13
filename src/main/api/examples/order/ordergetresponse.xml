@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<root>
+  <message>
+    <status>success</status>
+    <errorMess></errorMess>
+    <errorCode></errorCode>
+  </message>
+  <order>
+    <orderNo>56</orderNo>
+    <items>
+      <itemName>socks</itemName>
+      <itemcode>S1123</itemcode>
+      <quantity>2</quantity>
+    </items>
+    <htsNo>QY765G</htsNo>
+    <status>V</status>
+  </order>
+</root>
